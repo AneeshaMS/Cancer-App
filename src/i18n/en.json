@@ -1,0 +1,41 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "done": "Done"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "loginTitle": "Welcome back",
+    "loginSubtitle": "Sign in to continue your journey",
+    "loginError": "Invalid email or password",
+    "loginSuccess": "Logged in successfully"
+  },
+  "tabs": {
+    "home": "Home",
+    "profile": "Profile"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome",
+    "patients": "Patients",
+    "journey": "Journey",
+    "emptyPatients": "No patients yet",
+    "emptyDescription": "Patients will appear here once added."
+  },
+  "errors": {
+    "network": "Network error. Please check your connection.",
+    "unauthorized": "Session expired. Please log in again.",
+    "server": "Server error. Please try again later.",
+    "unknown": "An unexpected error occurred."
+  }
+}
